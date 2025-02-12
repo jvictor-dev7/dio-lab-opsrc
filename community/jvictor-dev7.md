@@ -4,7 +4,7 @@
 
 | Tenho 17 anos e atualmente cursando Engenharia de Software e fazendo um Bootcamp de Java Cloud native pela DiO. Tenho comprometimento e ambição pelo aprendizado contínuo e busco melhorar a qualidade do meu estudo cada vez mais para aperfeiçoar o desenvolvimento de minhas habilidades técnicas e sociais! 
 
-🧠 Graduando em **Em Engenharia de Software**, na [**Anhanguera**
+🧠 Graduando em **Em Engenharia de Software** na **Anhanguera**
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
